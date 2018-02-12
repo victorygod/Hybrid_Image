@@ -50,6 +50,22 @@ The goal of this part of the assignment is to create hybrid images using the app
  
 ![hybrid_fft.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/gray/fft_img2_filtered.jpg)
 
+## Other results
+
+
+![output_colored.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/other/output0.jpg)
+![output_colored.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/other/output1.jpg)
+![output_colored.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/other/output2.jpg)
+![output_colored.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/other/output3.jpg)
+![output_colored.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/other/output4.jpg)
+
+origine images:
+
+![output_colored.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/other/1.jpg)
+![output_colored.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/other/2.jpg)
+
+
+
 # Bells & Whistles (Extra Points)
 
  
