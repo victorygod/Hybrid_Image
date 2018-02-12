@@ -16,6 +16,11 @@ Pyramids
 
 Frequency analysis
 
+the original two images:
+
+![hybrid_fft.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/gray/cat.jpg)
+![hybrid_fft.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/gray/dog.jpg)
+
 hybrid image:
 
 ![hybrid_fft.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/gray/fft_hybrid.jpg)
@@ -36,3 +41,12 @@ filtered img2:
 
 ![hybrid_fft.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/gray/fft_img2_filtered.jpg)
 
+Bells & Whistles (Extra Points)
+
+colored images:
+
+![output_colored.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/colored/output0.jpg)
+![output_colored.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/colored/output1.jpg)
+![output_colored.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/colored/output2.jpg)
+![output_colored.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/colored/output3.jpg)
+![output_colored.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/colored/output4.jpg)
