@@ -4,4 +4,35 @@ The goal of this part of the assignment is to create hybrid images using the app
 
 Best result
 
+![hybrid.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/gray/output0.jpg)
+
+Pyramids
+
+![hybrid.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/gray/output0.jpg)
+![hybrid.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/gray/output1.jpg)
+![hybrid.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/gray/output2.jpg)
+![hybrid.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/gray/output3.jpg)
+![hybrid.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/gray/output4.jpg)
+
+Frequency analysis
+
+hybrid image:
+
+![hybrid_fft.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/gray/fft_hybrid.jpg)
+
+img1:
+
+![hybrid_fft.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/gray/fft_img1.jpg)
+
+filtered img1:
+
+![hybrid_fft.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/gray/fft_img1_filtered.jpg)
+
+img2:
+
+![hybrid_fft.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/gray/fft_img2.jpg)
+
+filtered img2:
+
+![hybrid_fft.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/gray/fft_img2_filtered.jpg)
 
