@@ -2,6 +2,12 @@
 
 The goal of this part of the assignment is to create hybrid images using the approach described in the SIGGRAPH 2006 paper by Oliva, Torralba, and Schyns. Hybrid images are static images that change in interpretation as a function of the viewing distance. The basic idea is that high frequency tends to dominate perception when it is available, but, at a distance, only the low frequency (smooth) part of the signal can be seen. By blending the high frequency portion of one image with the low-frequency portion of another, you get a hybrid image that leads to different interpretations at different distances.
 
+# Method
+
+I use a a standard 2D Gaussian filter to get the low-pass information. Then I use another standard 2D Gaussian filter to be substracted by the original image and get the high-pass information.
+
+To get the hybrid image, I average the two information.
+
 # Best result
 
  
@@ -40,6 +46,8 @@ The goal of this part of the assignment is to create hybrid images using the app
  
 ![hybrid_fft.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/gray/fft_img1_filtered.jpg)
 
+The cutoff-frequency I choose for img1 is 7 as the variance of the Gaussian filter.
+
 ### img2:
 
  
@@ -49,6 +57,8 @@ The goal of this part of the assignment is to create hybrid images using the app
 
  
 ![hybrid_fft.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/gray/fft_img2_filtered.jpg)
+
+The cutoff-frequency I choose for img2 is 4 as the variance of the Gaussian filter.
 
 ## Other results
 
