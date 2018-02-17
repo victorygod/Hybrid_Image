@@ -75,6 +75,7 @@ origine images:
 ![output_colored.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/other/2.jpg)
 
 
+You can see clearly one image has one eye and the other has two eyes. And the hybrid images will transform from two eyes to one eyes.
 
 # Bells & Whistles (Extra Points)
 
