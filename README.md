@@ -38,17 +38,18 @@ To get the hybrid image, I average the two information.
 
 ### img1:
 
- 
+
 ![hybrid_fft.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/gray/fft_img1.jpg)
 
 ### filtered img1:
 
  
+![hybrid_fft.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/gray/filtered_img1.jpg)
 ![hybrid_fft.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/gray/fft_img1_filtered.jpg)
 
 The cutoff-frequency I choose for img1 is 10 as the variance of the Gaussian filter.
 
-Img1 is supposed to reserve the high-pass information. From the frequncy image you can see high frequncy information is reserved.
+Img1 is supposed to reserve the high-pass information. From the frequncy image you can see high frequncy information is reserved. From the filtered image you can see there is mainly edge information.
 
 ### img2:
 
@@ -58,11 +59,12 @@ Img1 is supposed to reserve the high-pass information. From the frequncy image y
 ### filtered img2:
 
  
+![hybrid_fft.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/gray/filtered_img2.jpg)
 ![hybrid_fft.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/gray/fft_img2_filtered.jpg)
 
 The cutoff-frequency I choose for img2 is 4 as the variance of the Gaussian filter.
 
-Img2 is supposed to reserve the low-pass information. From the frequncy image you can see low frequncy information is reserved.
+Img2 is supposed to reserve the low-pass information. From the frequncy image you can see low frequncy information is reserved. From the filtered image you can see the image is blured.
 
 ## Other results
 
