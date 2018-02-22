@@ -96,3 +96,29 @@ You can see clearly one image has one eye and the other has two eyes. And the hy
 ![output_colored.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/colored/output4.jpg)
 
 Using color for both of the high-frequency component and the low-frequency component will enhance the performance.
+
+### only low-pass image colored
+
+![output_colored.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/half_colored/filtered_img1_1.jpg)
+![output_colored.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/half_colored/filtered_img2_1.jpg)
+
+![output_colored.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/half_colored/output0_1.jpg)
+![output_colored.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/half_colored/output1_1.jpg)
+![output_colored.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/half_colored/output2_1.jpg)
+![output_colored.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/half_colored/output3_1.jpg)
+![output_colored.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/half_colored/output4_1.jpg)
+
+You can see there is no significant difference between hybrid images getting from only low-pass image colored and hybrid images getting from both image colored. So reserving the color of low-pass images will also enhance the performance.
+
+### only high-pass image colored
+
+![output_colored.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/half_colored/filtered_img1_2.jpg)
+![output_colored.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/half_colored/filtered_img2_2.jpg)
+
+![output_colored.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/half_colored/output0_2.jpg)
+![output_colored.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/half_colored/output1_2.jpg)
+![output_colored.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/half_colored/output2_2.jpg)
+![output_colored.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/half_colored/output3_2.jpg)
+![output_colored.jpg](https://github.com/victorygod/Hybrid_Image/blob/master/half_colored/output4_2.jpg)
+
+You can see there is significant difference between high-pass colored images and both colored images. We can see that color information mis mainly reserved in low frequency and edge information is mainly reserved in high frequency.
